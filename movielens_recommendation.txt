@@ -1,1 +1,4 @@
-This project is a part of the machine learning challenge my Fellowship.AI. The notebook has notes on the algorithm implemented for building a recommendation engine for the customers of a movies website. The data has more tha 100,000 observations.
+This project is a part of the machine learning challenge my Fellowship.AI. The notebook has notes on the algorithm implemented for building a recommendation engine for the customers of a movies website. The data has more tha 100,000 observations. The algorithms that are used are:
+1. Custom user frequency based (sparse matrix)
+2. Collaborative Filtering (Cosine Similarity based)
+3. Ensemble of Random Forests and Collaborative filtering
